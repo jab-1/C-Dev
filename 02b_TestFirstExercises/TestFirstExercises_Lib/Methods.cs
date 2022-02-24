@@ -92,7 +92,7 @@ namespace TestFirstExercises
             // iterates through the arraylist and adds each to integer sum.
             int sum = 0;
             foreach (int i in list){
-                sum += i;
+                sum += i; 
             }
 
             return sum;

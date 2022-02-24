@@ -1,10 +1,10 @@
 <img src="https://boolerang.co.uk/wp-content/uploads/job-manager-uploads/company_logo/2018/04/SG-Logo-Black.png" alt="Sparta Logo" width="200"/>
 
----   
+---
 # Lab - Test First Development
 
 ## Setup
-Download the starter code `02b_TestFirstExercises` and open it in Visual Studio
+Download the starter code `02b_TestFirstExercises` and open it in Visual Studio 
 
 ## Lab
 Implement the methods in `TestFirstExercises.Method` so that they
