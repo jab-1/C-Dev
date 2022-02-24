@@ -1,0 +1,15 @@
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\bin\Debug\net6.0\myConsoleApp.exe
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\bin\Debug\net6.0\myConsoleApp.deps.json
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\bin\Debug\net6.0\myConsoleApp.runtimeconfig.json
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\bin\Debug\net6.0\myConsoleApp.dll
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\bin\Debug\net6.0\myConsoleApp.pdb
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.AssemblyInfo.cs
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.dll
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\refint\myConsoleApp.dll
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.pdb
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\myConsoleApp.genruntimeconfig.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleApp\obj\Debug\net6.0\ref\myConsoleApp.dll

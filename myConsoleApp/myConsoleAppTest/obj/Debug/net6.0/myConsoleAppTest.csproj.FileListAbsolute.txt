@@ -1,0 +1,10 @@
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.AssemblyInfo.cs
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.AssemblyInfo.cs
+C:\Users\jabba\Desktop\test\C# Dev\myConsoleApp\myConsoleAppTest\obj\Debug\net6.0\myConsoleAppTest.csproj.CoreCompileInputs.cache
