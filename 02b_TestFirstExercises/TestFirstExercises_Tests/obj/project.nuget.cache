@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtpFZ15vZOU44O4SQucO5x16b3Xz1D7uiKcr1XpyQBR8YMljh47SiFMWusFftufJU7feWpsUfx21eQUXvafV1Q==",
+  "dgSpecHash": "Z+nhU3b5L7GdIyN+6FdSv3RDr7iO7g4mL9jPvaypNoo9/xnvlOtMKzRnceLomYmlq9/rng6FfmFr9/rU+mp5pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jabba\\Desktop\\work\\C# Dev\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
+  "projectFilePath": "C:\\Users\\jabba\\Desktop\\GitHub\\02b_TestFirstExercises\\TestFirstExercises_Tests\\TestFirstExercises_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabba\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
     "C:\\Users\\jabba\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
