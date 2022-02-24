@@ -39,11 +39,11 @@ Product backlog -> Sprint planning -> Sprint backlog -> Daily scrum -> Review ->
 
 #### Transparency
 
-Everyone presents the facts as is, and collectively collaborates for the common organisational objectiVE. Nobody has a hidden agenda.
+Everyone presents the facts as is, and collectively collaborates for the common organisational objective. Nobody has a hidden agenda.
 
 #### Inspection
 
-Not done by an inspector but by everyone on the scrum team, the inspection can be done for the product, processes, people aspects, practices 
+Not done by an inspector but by everyone on the scrum team, the inspection can be done for the product, processes, people aspects, practices.
 
 #### Adaptation
 
