@@ -2,11 +2,14 @@
 
 ## Code & notes relating to my C# development training
 
-**02b_TestFirstExercises**
+**Core**
 
-- Refer back to this to understand unit testing using NUNIT.
+- 02b_TestFirstExercises
 
-  
+  - Refer back to this to understand unit testing using NUNIT.
+
+    
+
 
 **Agile & Scrum** 
 
