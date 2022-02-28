@@ -34,7 +34,7 @@ namespace Tests
         [TestCase(18, "All films are available.")]
         [TestCase(19, "All films are available.")]
 
-        [Category("Edge cases")]
+        [Category("Extreme cases")]
         [TestCase(0, "U & PG films are available.")]
         [TestCase(1000, "All films are available.")]
 
