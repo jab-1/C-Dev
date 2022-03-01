@@ -46,6 +46,20 @@ namespace Tests
                     
         }
     
+        // -------------------------------------------------------
+        // Exception handling tests
+
+        [TestCase(-23)]
+        [TestCase(-40)]
+        public void WhenTimeIsOutOfBounds_Greeting_ThrowsTimeNotApplicableException(int time) {
+            Assert.That(() => Program.Greeting(time), Throws.TypeOf<TimeNotApplicableException>().With.Message.Contains("Time is out of bounds. Please enter a time between 0-24."));
+        }
+        
+        [TestCase(-2)]
+        [TestCase(-100)]
+        public void WhenAgeIsOutOfBounds_AvailableClassifications_ClassificationException(int age) {
+            Assert.That(() => Program.AvailableClassifications(age), Throws.TypeOf<ClassificationException>().With.Message.Contains("Viewer cannot be less than 0 years of age."));
+        }
     
     
     
