@@ -1,0 +1,15 @@
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\bin\Debug\net6.0\MoreUnitTesting.exe
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\bin\Debug\net6.0\MoreUnitTesting.deps.json
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\bin\Debug\net6.0\MoreUnitTesting.runtimeconfig.json
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\bin\Debug\net6.0\MoreUnitTesting.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\bin\Debug\net6.0\MoreUnitTesting.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.AssemblyInfo.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\refint\MoreUnitTesting.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\MoreUnitTesting.genruntimeconfig.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Homework & Tasks\MoreUnitTesting\MoreUnitTesting\obj\Debug\net6.0\ref\MoreUnitTesting.dll
