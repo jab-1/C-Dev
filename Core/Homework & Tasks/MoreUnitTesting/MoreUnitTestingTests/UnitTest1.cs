@@ -15,6 +15,7 @@ public class Tests
     [TestCase(65, "Pass")]
     [TestCase(84, "Pass")]
     [TestCase(85, "Distinction")]
+    [TestCase(100, "Distinction")]
 
     [Category("Edge testing")]
     [TestCase(-1000, "Fail")]
