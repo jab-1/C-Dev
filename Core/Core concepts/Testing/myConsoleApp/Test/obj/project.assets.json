@@ -3876,11 +3876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\jabba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\Test\\obj\\",
+      "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jabba\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3897,8 +3897,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {
-              "projectPath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj"
+            "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {
+              "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj"
             }
           }
         }

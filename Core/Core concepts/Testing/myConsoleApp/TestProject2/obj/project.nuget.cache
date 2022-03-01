@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QByhfR3kwYd97Ona5SI6c5foiXQfvGqhbAlgdSDm9OTWt2+GqzdAPVQe/DlCngeaqf7cKbPy02lL+rD3Mr1YgA==",
+  "dgSpecHash": "z3urn2KjyFeTx+OIlr+0iXHw1pSq4/HMS0eU6vtOOcccSs0A69emF/XOrxtxYSRNODjY8OOyJi4uYm4qz8uOsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\TestProject2\\TestProject2.csproj",
+  "projectFilePath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabba\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\jabba\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

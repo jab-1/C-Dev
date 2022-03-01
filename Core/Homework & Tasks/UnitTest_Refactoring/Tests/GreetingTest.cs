@@ -6,6 +6,7 @@ namespace Tests
     public class Tests
     {
         //Greeting
+        [TestCase(0)]
         [TestCase(5)]
         [TestCase(8)]
         [TestCase(12)]

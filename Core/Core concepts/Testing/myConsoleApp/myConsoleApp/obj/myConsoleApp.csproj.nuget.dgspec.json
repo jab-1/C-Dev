@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {}
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj",
         "projectName": "myConsoleApp",
-        "projectPath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj",
+        "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\myConsoleApp.csproj",
         "packagesPath": "C:\\Users\\jabba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jabba\\Desktop\\test\\C# Dev\\myConsoleApp\\myConsoleApp\\myConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\Testing\\myConsoleApp\\myConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jabba\\AppData\\Roaming\\NuGet\\NuGet.Config",

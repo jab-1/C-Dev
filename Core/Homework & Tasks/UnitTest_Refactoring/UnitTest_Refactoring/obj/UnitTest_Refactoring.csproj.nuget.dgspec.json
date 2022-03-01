@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj": {}
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj": {
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj",
+        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj",
         "projectName": "UnitTest_Refactoring",
-        "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj",
+        "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\UnitTest_Refactoring\\UnitTest_Refactoring.csproj",
         "packagesPath": "C:\\Users\\jabba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\UnitTest_Refactoring\\obj\\",
+        "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\UnitTest_Refactoring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jabba\\AppData\\Roaming\\NuGet\\NuGet.Config",

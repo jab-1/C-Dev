@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tIEWx2uHWJ45ZumdwiswATlUZJNmYBMR7QNTqCdycY7voUhLZ0ztYczgFTkfb0qr3heDSB4Ul6Zqa3cZowSUQ==",
+  "dgSpecHash": "YqvWdEfyjzRLfAVJsu/RisoFbiOby4tOYhtfZQjf6kBD1MufHdr3+0SgZowKlnFHzV/Y9FcUNqWE4wjfIzsd+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\UnitTest_Refactoring\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\UnitTest_Refactoring\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jabba\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\jabba\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
