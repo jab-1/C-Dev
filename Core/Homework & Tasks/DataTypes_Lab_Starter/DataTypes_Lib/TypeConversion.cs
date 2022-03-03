@@ -22,7 +22,6 @@ namespace DataTypes_Lib
 
         public static long FloatToLong(float num)
         {
-
             float a = (float)Math.Round(num);
             return (long)a;
         }

@@ -1,0 +1,15 @@
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.AssemblyInfo.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\bin\Debug\net6.0\MoreDataTypes.exe
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\bin\Debug\net6.0\MoreDataTypes.deps.json
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\bin\Debug\net6.0\MoreDataTypes.runtimeconfig.json
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\bin\Debug\net6.0\MoreDataTypes.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\bin\Debug\net6.0\MoreDataTypes.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\refint\MoreDataTypes.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\MoreDataTypes.genruntimeconfig.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\DataTypes\MoreDataTypes\MoreDataTypes\MoreDataTypes\obj\Debug\net6.0\ref\MoreDataTypes.dll

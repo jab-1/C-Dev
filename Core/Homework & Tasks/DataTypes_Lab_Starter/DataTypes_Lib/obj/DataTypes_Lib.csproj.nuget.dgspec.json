@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jabba\\Desktop\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj": {}
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jabba\\Desktop\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj": {
+    "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj",
+        "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj",
         "projectName": "DataTypes_Lib",
-        "projectPath": "C:\\Users\\jabba\\Desktop\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj",
+        "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\DataTypes_Lab_Starter\\DataTypes_Lib\\DataTypes_Lib.csproj",
         "packagesPath": "C:\\Users\\jabba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jabba\\Desktop\\DataTypes_Lab_Starter\\DataTypes_Lib\\obj\\",
+        "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Homework & Tasks\\DataTypes_Lab_Starter\\DataTypes_Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jabba\\AppData\\Roaming\\NuGet\\NuGet.Config",
