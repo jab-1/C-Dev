@@ -1,0 +1,6 @@
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\WPF_App1.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\CalculatorWindow.g.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\WPF_App1_MarkupCompile.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\WPF_App1\obj\Debug\net6.0-windows\WPF_App1_MarkupCompile.lref

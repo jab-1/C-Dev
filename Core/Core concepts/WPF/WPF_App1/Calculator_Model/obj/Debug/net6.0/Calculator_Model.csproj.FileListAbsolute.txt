@@ -1,0 +1,12 @@
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\bin\Debug\net6.0\Calculator_Model.deps.json
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\bin\Debug\net6.0\Calculator_Model.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\bin\Debug\net6.0\Calculator_Model.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.csproj.AssemblyReference.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.AssemblyInfoInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.AssemblyInfo.cs
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.csproj.CoreCompileInputs.cache
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\refint\Calculator_Model.dll
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\Calculator_Model.pdb
+C:\Users\jabba\Desktop\GitHub - C# dev\Core\Core concepts\WPF\WPF_App1\Calculator_Model\obj\Debug\net6.0\ref\Calculator_Model.dll

@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Calculator_Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Calculator_Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calculator_Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculator_Model/1.0.0": {
+      "type": "project",
+      "path": "../Calculator_Model/Calculator_Model.csproj",
+      "msbuildProject": "../Calculator_Model/Calculator_Model.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Calculator_Model >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jabba\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\WPF\\WPF_App1\\WPF_App1\\WPF_App1.csproj",
+      "projectName": "WPF_App1",
+      "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\WPF\\WPF_App1\\WPF_App1\\WPF_App1.csproj",
+      "packagesPath": "C:\\Users\\jabba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\WPF\\WPF_App1\\WPF_App1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jabba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\WPF\\WPF_App1\\Calculator_Model\\Calculator_Model.csproj": {
+              "projectPath": "C:\\Users\\jabba\\Desktop\\GitHub - C# dev\\Core\\Core concepts\\WPF\\WPF_App1\\Calculator_Model\\Calculator_Model.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
