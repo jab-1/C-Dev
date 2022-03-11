@@ -18,7 +18,6 @@ class Program
             {
                 amountOfVowels++;
             }
-            
         }
         return amountOfVowels;
     }
